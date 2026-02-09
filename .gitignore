@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+checkpoint/
+dataset/
+samples/
+
+loss_analysis.png
+loss_log.csv
+
+metadata_train.json
+metadata_val.json
